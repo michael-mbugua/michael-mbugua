@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
+<p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=hack&weight=500&size=32&pause=1000&color=EE5DF7&width=435&lines=A+full-stack+software+Developer;let's+connect." alt="Typing SVG" /></a>
 </p>
 <br/>
@@ -53,11 +53,10 @@
 ## 📊 Github stats
 <br/>
 <p align="center">
-<details> 
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://streak-stats.demolab.com?user=michael-mbugua&theme=highcontrast&border_radius=4.8" height="192px"/></a>
   <br/>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michael-mbugua&bg_color=242324&color=f2e3ee&line=f2eb07&point=cad3ca&area=true&hide_border=true" /></a>
-</details>
 </p>
+
