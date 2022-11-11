@@ -1,7 +1,5 @@
-<h1>Welcome to mike's GIT-HUB profile</h1>
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1>Welcome to mike's GIT-HUB profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=hack&weight=500&size=23&pause=1000&color=EE5DF7&width=435&lines=A+full-stack+software+Developer;let's+connect." alt="Typing SVG" /></a>
 </p>
@@ -34,6 +32,7 @@
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    
 </p>
 ### 🗄️ Databases and cloud hosting
 <p>
@@ -54,3 +53,4 @@
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michael-mbugua&bg_color=242324&color=f2e3ee&line=f2eb07&point=cad3ca&area=true&hide_border=true" /></a>
 </p>
+
