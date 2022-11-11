@@ -1,10 +1,10 @@
-<h2>Welcome to mike's GIT-HUB profile</h2>
+<h1>Welcome to mike's GIT-HUB profile</h1>
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=hack&weight=500&size=21&pause=1000&color=EE5DF7&width=435&lines=A+full-stack+software+Developer;let's+connect." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=hack&weight=500&size=32&pause=1000&color=EE5DF7&width=435&lines=A+full-stack+software+Developer;let's+connect." alt="Typing SVG" /></a>
 </p>
 <br/>
 <br/>
@@ -29,8 +29,6 @@
     <a href="https://github.com/michael-mbugua"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 <br/>
-<br/>
-
 ### 🧰 Frameworks and libraries
 <br/>
 <p>
@@ -42,9 +40,7 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     
 </p>
-
 ### 🗄️ Databases and cloud hosting
-
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -53,23 +49,15 @@
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
-
-
 <!-- prettier-ignore-end -->
 ## 📊 Github stats
 <br/>
-<br/>
+<p align="center">
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://streak-stats.demolab.com?user=michael-mbugua&theme=highcontrast&border_radius=4.8" height="192px"/></a>
   <br/>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michael-mbugua&bg_color=242324&color=f2e3ee&line=f2eb07&point=cad3ca&area=true&hide_border=true" /></a>
 </details>
-
-
-
-
-
-
+</p>
