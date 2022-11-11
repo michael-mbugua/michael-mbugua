@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=hack&weight=500&size=23&pause=1000&color=EE5DF7&width=435&lines=A+full-stack+software+Developer;let's+connect." alt="Typing SVG" /></a>
 </p>
 <br/>
-### 👨‍💻 Programming and markup languages
+<h3>👨‍💻 Programming and markup languages</h3>
 <br/>
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -23,7 +23,7 @@
     <a href="https://github.com/michael-mbugua"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 <br/>
-### 🧰 Frameworks and libraries
+<h3>🧰 Frameworks and libraries</h3>
 <br/>
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
@@ -34,7 +34,7 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     
 </p>
-### 🗄️ Databases and cloud hosting
+<h3>🗄️ Databases and cloud hosting</h3>
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -44,7 +44,7 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 <!-- prettier-ignore-end -->
-## 📊 Github stats
+<h3> 📊 Github stats </h3>
 <br/>
 <p>
   <br/>
@@ -53,4 +53,3 @@
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michael-mbugua&bg_color=242324&color=f2e3ee&line=f2eb07&point=cad3ca&area=true&hide_border=true" /></a>
 </p>
-
