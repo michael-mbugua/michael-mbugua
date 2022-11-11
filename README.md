@@ -4,16 +4,14 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F6F731&width=435&lines=A+full-stack+developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=hack&weight=500&size=21&pause=1000&color=EE5DF7&width=435&lines=A+full-stack+software+Developer;let's+connect." alt="Typing SVG" /></a>
 </p>
-
-
-
+<br/>
 <br/>
 
-
 ### 👨‍💻 Programming and markup languages
-
+<br/>
+<br/>
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
     <a href="https://github.com/michael-mbugua"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -30,9 +28,11 @@
     <a href="https://github.com/michael-mbugua" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/michael-mbugua"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
+<br/>
+<br/>
 
 ### 🧰 Frameworks and libraries
-
+<br/>
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -57,16 +57,19 @@
 
 <!-- prettier-ignore-end -->
 ## 📊 Github stats
-
+<br/>
+<br/>
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://streak-stats.demolab.com?user=michael-mbugua&theme=highcontrast&border_radius=4.8" height="192px"/></a>
   <br/>
+  <br/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michael-mbugua&bg_color=242324&color=f2e3ee&line=f2eb07&point=cad3ca&area=true&hide_border=true" /></a>
 </details>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://streak-stats.demolab.com?user=michael-mbugua&theme=highcontrast&border_radius=4.8" height="192px"/></a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=michael-mbugua&bg_color=242324&color=f2e3ee&line=f2eb07&point=cad3ca&area=true&hide_border=true" /></a>
+
 
 
 
